@@ -18,11 +18,11 @@ Steps to get Alice working for you:
 
 4. Run the following commands:
 
-pip install pyttsx3
+     pip install pyttsx3
 
-pip install speechRecognition
+     pip install speechRecognition
 
-pip install wikipedia
+     pip install wikipedia
 
 6. Running the program:
 
