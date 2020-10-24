@@ -1,5 +1,5 @@
 # Alice
-Alice is a personal assistant which takes voice inputs are does various tasks such as playing music, searching wikipedia, opening youtube etc.
+Alice is a personal assistant which takes voice inputs and does various tasks such as playing music, searching wikipedia, opening youtube etc.
 
 Steps to get Alice working for you:
 1. Install python 3.6.0: You can get it here: https://www.python.org/downloads/release/python-360/ 
